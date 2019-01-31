@@ -112,7 +112,7 @@ if(mouseX<400){
 if(mouseIsPressed){
     textSize(25)
 fill(0);
-text('If you have come because your liberation is bound up with mine,', 400, 150);
+text('If you have come because your liberation is bound up with mine,', 400, 151);
 text('then let us work together."', 400, 180);
 text('-Lilla Watson', 400, 210);
 }else{
