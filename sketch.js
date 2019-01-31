@@ -82,13 +82,6 @@ function draw(){
     if (ypos > height - bounce || ypos < bounce) {
        ydirection *= -1;}
     
-image(img3, xpos, ypos, 65, 65);*/
-
-
-/*for(let q=0; q < 50; q++){
-    for(let r=0; r<50; r++){
-        image(img8, 0+q*120, 0+r*120, 200, 160);
-    }
 }*/
 
 if(mouseX<400){
